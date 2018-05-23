@@ -102,4 +102,4 @@ For more help screenshots, go [here](screenshots/help/).
 #### When you decline to accept license aggrement, you'll get this :point_down: :joy: :stuck_out_tongue_winking_eye:
 ![License Screen 7](screenshots/license/license-screen-7.png "License Screen 7")
 
-*This project is This project is licensed under the terms of the MIT license. under the terms of the MIT license.*
+*This project is licensed under the terms of the MIT license.*
