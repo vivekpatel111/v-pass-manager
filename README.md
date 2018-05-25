@@ -1,5 +1,7 @@
 # :lock_with_ink_pen: V Pass Manager :closed_lock_with_key:
 
+![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)
+
 V Pass Manager manages passwords, bank account details, secure notes, etc. by securing it with encryption key. This project was made only for _learning purpose only_.
 
 *This program is tested using Borland C++ Compiler.*
